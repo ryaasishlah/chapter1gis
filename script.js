@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ],
         view: new ol.View({
             center: ol.proj.fromLonLat([ 107.60526591089713, -6.907379177291697,]),
-            zoom: 16.5
+            zoom: 17
         })
     });
 
